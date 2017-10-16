@@ -1,0 +1,9 @@
+Building satan
+
+See doc/readme-qt.rst for instructions on building satan QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of satan.
+
+See doc/build-*.txt for instructions on building satand,
+the intended-for-services, no-graphical-interface, reference
+implementation of satan.
